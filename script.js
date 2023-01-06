@@ -7,3 +7,10 @@ function scrollFuntion(){
         document.getElementById("narbar").style.backgroundcolor="transparent";
     }
 }
+document.getElementsByTagName("h1") [1].style.color ="orange"
+
+document.getElementsByTagName("h1") [3].style.color ="orange"
+
+document.getElementsByTagName("h1") [7].style.color ="orange"
+
+document.getElementsByTagName("h1") [8].style.color ="orange"
